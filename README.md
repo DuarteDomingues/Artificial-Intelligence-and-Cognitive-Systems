@@ -15,8 +15,6 @@ problems and the application of neural networks to an image classification probl
 * Realization of an automatic reasoning system for planning with different methods 
 and optimization algorithms.
 
----
-
 ### Folder Organization:
 
 * The folder 01_neural_networks contains the neural network problems solved in the project.
