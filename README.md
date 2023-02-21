@@ -1,6 +1,6 @@
 # Artificial-Intelligence-and-Cognitive-Systems
 
-### Final project of the course IASC (Inteligência Artificial para Sistemas Coginitivos)
+### Final project of the subject IASC (Inteligência Artificial para Sistemas Coginitivos)
 
 Mestrado Engenharia Informática e Multimédia - ISEL
 
